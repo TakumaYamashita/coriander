@@ -38,7 +38,7 @@ class _MyHomePageState extends State<MyHomePage> {
 
     return Scaffold(
       appBar: AppBar(
-        title: Text('Takuma Yamashitaaaaaaaaaaa'),
+        title: Text('Takuma Yamashita'),
         actions: <Widget>[
           Icon(Icons.add),
           Icon(Icons.share),
